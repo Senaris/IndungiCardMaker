@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoL Card Maker", "LoL Card Maker.csproj", "{2BBD2A72-34BA-4075-A787-664849458EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BBD2A72-34BA-4075-A787-664849458EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBD2A72-34BA-4075-A787-664849458EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBD2A72-34BA-4075-A787-664849458EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBD2A72-34BA-4075-A787-664849458EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B10FEBD-D9E7-413C-8489-17380037EB02}
+	EndGlobalSection
+EndGlobal
