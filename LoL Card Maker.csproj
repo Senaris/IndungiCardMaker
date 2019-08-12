@@ -109,7 +109,12 @@
     <Resource Include="Images\senFox.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Champions\kaisa.jpg" />
+    <Resource Include="Champions\ahri.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="Champions\kaisa.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Resources\logo.png" />
     <None Include="Resources\cadru.png" />
   </ItemGroup>
